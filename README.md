@@ -24,7 +24,6 @@ Build a responsive QR code card component matching the Frontend Mentor design sp
 ### Links
 
 - Solution URL: [https://github.com](https://github.com)
-- Live Site URL: [Paste your GitHub Pages URL here]
 
 ## My process
 
