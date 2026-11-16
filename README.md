@@ -79,3 +79,7 @@ In upcoming projects, I plan to build multi-component responsive layouts using T
 
 - GitHub - [@cedrickmmk](https://github.com)
 - Frontend Mentor - [@cedrickmmk](https://frontendmentor.io)
+
+## here a link for the second challenge "blog preview"
+
+link: https://github.com/cedrickmmk/blog-card-bootstrap.git
